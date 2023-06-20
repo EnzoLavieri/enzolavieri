@@ -1,10 +1,10 @@
 # Olá, seja bem-vendo ao meu perfil do GitHub!
 
 🙋‍♂️  If you want to talk to me, don't hesitate to send me an email, I'll answer ASAP!<br> 
-♥   I've been a Scout for 6 years, and it's one of the best things that ever happened to me. <br>
+ ♥  I've been a Scout for 6 years, and it's one of the best things that ever happened to me. <br>
 👨‍🎓  I am learning and I know a little bit of C, and in the future I want to learn HTML, CSS and JS. <br> 
-👨‍💻  I'm currently starting to make a software that will store and register some places to camp, like an Airbnb .<br>
-😸Last but not least I'm a software engineering student at Unicesumar, here you can find my projects, college work, and other things...
+👨‍💻  I'm currently starting to make a system that is a scout group management system.<br>
+😸  Last but not least I'm a software engineering student at Unicesumar, here you can find my projects, college work, and other things...
 <br><br>
  <div> 
   <a href="https://github.com/EnzoLavieri">
