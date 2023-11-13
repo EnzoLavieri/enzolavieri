@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enzolavieri&label=Profile%20views&color=0e75b6&style=flat" alt="enzolavieri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzolavieri" alt="enzolavieri" /></a> </p>
-
 - 🔭 I’m currently working on **landing page to Paraquedas**
 
 - 🌱 I’m currently learning **HTML, CSS and JS**
