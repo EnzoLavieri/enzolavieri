@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enzo D Andrey Lavieri Yarid</h1>
 <h3 align="center">Software engineer from Brazil, always looking to improve myself and support people who ask me for help</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enzolavieri&label=Profile%20views&color=0e75b6&style=flat" alt="enzolavieri" /> </p>
-
 - 🌱 I’m currently learning **HTML, CSS and JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EnzoLavieri](https://github.com/EnzoLavieri)
